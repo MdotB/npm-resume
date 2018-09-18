@@ -1,0 +1,21 @@
+{
+    "name": "Michael Bell",
+    "linkedin": "https://www.linkedin.com/in/michael-bell-5b546822/",
+    "github": "MdotB",
+    "email": "michaelbell.va@gmail.com",
+    "resume": "MichaelBell_CV_GA.docx",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "react", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "speed chess",
+        "singing in the rain"
+    ]
+}
